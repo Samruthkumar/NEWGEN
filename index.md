@@ -6,7 +6,7 @@
     box-sizing: border-box;
   }
  .background{
-   background-image: url('Images/136949.jpg');
+   background-image: url('Public/Images/136949.jpg');
    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
